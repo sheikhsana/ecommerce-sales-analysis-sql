@@ -87,3 +87,19 @@ This project demonstrates how SQL can be used to analyze e-commerce data and gen
 
 The analysis helps understand product performance, customer behavior, sales trends, profitability, and overall business performance.
 
+## Project Results
+
+### Overall Business Summary
+![Overall Business Summary](ecommerce-sql-screenshots/overall_business_summary.png.png)
+
+### Profit Margin Analysis
+![Profit Margin Analysis](ecommerce-sql-screenshots/profit_margin_analysis.png.png)
+
+### Top 10 Products by Profit
+![Top 10 Products by Profit](ecommerce-sql-screenshots/top_products_by_profit.png.png)
+
+### Bottom 10 Products by Profit
+![Bottom 10 Products by Profit](ecommerce-sql-screenshots/bottom_products_by_profit.png.png)
+
+### Final Business Summary
+![Final Business Summary](ecommerce-sql-screenshots/final_business_summary.png.png)
